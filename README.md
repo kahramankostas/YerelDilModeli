@@ -89,7 +89,5 @@ payload = {
     "temperature": 0.7  # Yaratıcılık seviyesi (0.0-1.0)
 }
 ```
-
 ---
-
 **Not:** Bu proje, LM Studio'nun sunduğu yerel API ile entegre çalışmak üzere tasarlanmıştır. Gemma-3-12b-it modeli, LM Studio aracılığıyla yerel makinenizde çalıştırılır.
