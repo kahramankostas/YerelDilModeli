@@ -11,7 +11,7 @@ def chat():
     gemma_api_url = "http://127.0.0.1:1234/v1/chat/completions"
     
     payload = {
-        "model": "gemma-3-12b-it",
+        "model": "gemma-3-4b-it",
         "messages": [
             {"role": "user", "content": user_input}
         ],
